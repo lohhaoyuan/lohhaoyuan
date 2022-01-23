@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on random stuff
-- 🌱 I’m currently learning web programming with CS50x
+- 🌱 I’m currently learning web programming with CS50w
 - 😄 Pronouns: he/him
 
