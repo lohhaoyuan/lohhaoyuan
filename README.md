@@ -3,7 +3,14 @@
 [![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/915513493594177566)
 [![Medium Badge](https://img.shields.io/badge/-@lohhaoyuan-03a57a?style=for-the-badge&labelColor=000000&logo=Medium&link=https://medium.com/@lohhaoyuan/)](https://lohhaoyuan.medium.com/)
 
-aspiring student programmer 
+I am an aspiring student programmer as well as a member of the Hwa Chong Robotics Club. Chances are I'm drinking bubble tea while you read this, so um yes.
+
+> :warning: **Disclaimer**: May contain sarcasm (oh no). Proceed with caution.
+
+## ✨ Certification
+[![cs50](https://img.shields.io/badge/CS50-02262B?style=for-the-badge&logo=edX&logoColor=white)](https://courses.edx.org/certificates/b2fbd32a6a254027bcc76d243866b0da)
+
+(yes that's it for now)
 
 ## 💬 Languages
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
