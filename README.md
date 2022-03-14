@@ -39,3 +39,12 @@ I am an aspiring student programmer as well as a member of the Hwa Chong Robotic
 ![hits](	https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLHY-421212%2Fhit-counter)
 
 ## 💡 Projects
+### Social Networking | OurHCI (still a work in progress)
+![availableonios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![availableonandroid](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![availableonline](https://img.shields.io/badge/even%20works%20online-4285F4?style=for-the-badge&logo=Google&logoColor=white)
+
+OurHCI is a social media platform for Hwa Chong students meant to serve as not only a socialising platform but also a stage for students to freely express their thoughts. ~~Unfortunately, as this is a project for School, there is **censorship**.~~
+
+Politically incorrect posts ~~must~~ will be tagged with "This post has controversial content" for example, and there will be student moderators who review posts flagged or reported by other students. Repeatedly posting sh\*t will result in a drop in "social credit", a reputation system which will inform users of how trustworthy a person's posts might be.
+
