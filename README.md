@@ -13,7 +13,7 @@ I am an aspiring student programmer as well as a member of the Hwa Chong Robotic
 (yes that's it for now)
 
 ## 💬 Languages
-![Python Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Python Badge](https://img.shields.io/badge/python-1d3247?style=for-the-badge&logo=Python&logoColor=white)
 ![Swift Badge](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
