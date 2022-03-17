@@ -32,6 +32,8 @@ I am an aspiring student programmer as well as a member of the Hwa Chong Robotic
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## 📊 Statistics
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=LHY-42)
+
 ![stats](https://github-readme-stats.vercel.app/api?username=LHY-42)
 
 ![mostusedlangs](https://github-readme-stats.vercel.app/api/top-langs/?username=LHY-42)
