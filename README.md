@@ -53,7 +53,7 @@ Apart from software development (and robotics), I'm also a classical music enthu
 
 MO-Guide is a simple, responsive Math Olympiad webpage implemented using Next.js. With simple to understand notes and video resources for primary students to grasp fundamental but tough concepts of the field of Math Olympiad, we hope that this project will be of use to others.
 
-A project by [@tyx2021](https://github.com/tyx2021), [@fanwendeeznuts](https://github.com/fanwendeeznuts), Zhen Mingyuan and 
+A project by [@tyx2021](https://github.com/tyx2021), [@fanwendeeznuts](https://github.com/fanwendeeznuts), Zhen Mingyuan and [@1NF35TAT10N](https://github.com/1NF35TAT10N)
 
 
 ### Social Networking | OurHCI (still a work in progress)
@@ -64,4 +64,4 @@ OurHCI is a social media platform for Hwa Chong students made using Django (and 
 
 Politically incorrect posts ~~must~~ will be tagged with "This post has controversial content" for example, and there will be student moderators who review posts flagged or reported by other students. Repeatedly posting sh\*t will result in a drop in "social credit", a reputation system which will inform users of how trustworthy a person's posts might be.
 
-A project work by [@RxDefine](https://github.com/RxDefine), [@GoldPebble](https://github.com/Goldpebble) and [@1NF35TAT10N](https://github.com/1NF35TAT10N)
+A project work by [@RxDefine](https://github.com/RxDefine), [@GoldPebble](https://github.com/Goldpebble) and [@solarstacks](https://github.com/solarstacks)
