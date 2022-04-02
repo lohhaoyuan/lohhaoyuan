@@ -3,11 +3,9 @@
 [![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/915513493594177566)
 [![Medium Badge](https://img.shields.io/badge/-@lohhaoyuan-03a57a?style=for-the-badge&labelColor=000000&logo=Medium&link=https://medium.com/@lohhaoyuan/)](https://lohhaoyuan.medium.com/)
 
-I am an aspiring student programmer as well as a member of the Hwa Chong Robotics Club. Currently, I pursue the fields of Web Development and am looking into App Development (*clears throat*), as well as (of course) robotics.
+I am an aspiring student programmer as well as a member of the Hwa Chong Robotics Club. Currently, I pursue the fields of Web Development and am looking into App Development (Class of 2022 for the ![Swift Accelerator Programme](https://swiftinsg.com), as well as (of course) robotics.
 
 Apart from software development (and robotics), I'm also a classical music enthusiast. Scharwenka <3.
-
-> :warning: **Warning**: May contain mild sarcasm. Proceed with caution.
 
 ## ✨ Certification
 [![cs50](https://img.shields.io/badge/CS50-02262B?style=for-the-badge&logo=edX&logoColor=white)](https://courses.edx.org/certificates/b2fbd32a6a254027bcc76d243866b0da)
