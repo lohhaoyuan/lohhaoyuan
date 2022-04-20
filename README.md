@@ -42,19 +42,6 @@ Apart from software development (and robotics), I'm also a classical music enthu
 ![hits](	https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLHY-421212%2Fhit-counter)
 
 ## 💡 Projects
-### Education | [MO-Guide](https://github.com/tyx2021/MOguide) (still a work in progress)
-![moguiderepo](https://user-images.githubusercontent.com/95842688/160134983-72713fa4-beaf-4d95-bd46-52a8fc205312.png)
-
-![nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-MO-Guide is a simple, responsive Math Olympiad webpage implemented using Next.js. With simple to understand notes and video resources for primary students to grasp fundamental but tough concepts of the field of Math Olympiad, we hope that this project will be of use to others.
-
-A project by [@tyx2021](https://github.com/tyx2021), [@fanwendeeznuts](https://github.com/fanwendeeznuts), Zhen Mingyuan and [@1NF35TAT10N](https://github.com/1NF35TAT10N)
-
-
 ### Social Networking | OurHCI (still a work in progress)
 ![availableonios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![availableonandroid](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -67,4 +54,18 @@ OurHCI is a social media platform for Hwa Chong students made using Django (and 
 
 Politically incorrect posts ~~must~~ will be tagged with "This post has controversial content" for example, and there will be student moderators who review posts flagged or reported by other students. Repeatedly posting sh\*t will result in a drop in "social credit", a reputation system which will inform users of how trustworthy a person's posts might be.
 
-A project work by [@RxDefine](https://github.com/RxDefine), [@GoldPebble](https://github.com/Goldpebble) and [@solarstacks](https://github.com/solarstacks)
+Other Developers: [@RxDefine](https://github.com/RxDefine), [@GoldPebble](https://github.com/Goldpebble) and [@solarstacks](https://github.com/solarstacks)
+
+### Education | [MO-Guide](https://github.com/tyx2021/MOguide) (still a work in progress)
+![moguiderepo](https://user-images.githubusercontent.com/95842688/160134983-72713fa4-beaf-4d95-bd46-52a8fc205312.png)
+
+![nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+MO-Guide is a simple, responsive Math Olympiad webpage implemented using Next.js. With simple to understand notes and video resources for primary students to grasp fundamental but tough concepts of the field of Math Olympiad, we hope that this project will be of use to others.
+
+Other developers: [@tyx2021](https://github.com/tyx2021), [@fanwendeeznuts](https://github.com/fanwendeeznuts), Zhen Mingyuan and [@1NF35TAT10N](https://github.com/1NF35TAT10N)
+
+
