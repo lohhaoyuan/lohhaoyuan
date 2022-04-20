@@ -8,6 +8,7 @@ Stuff I am:
 * student developer
 * classical music enthusiast
 * bozotician
+
 Stuff I am not:
 * something you exorcists need to worry about
 
