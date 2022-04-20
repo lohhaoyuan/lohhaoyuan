@@ -3,20 +3,17 @@
 [![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/915513493594177566)
 [![Medium Badge](https://img.shields.io/badge/-@lohhaoyuan-03a57a?style=for-the-badge&labelColor=000000&logo=Medium&link=https://medium.com/@lohhaoyuan/)](https://lohhaoyuan.medium.com/)
 
-Stuff I am:
+Who I am:
 * short-ish
 * student developer
 * classical music enthusiast
 * bozotician
-
-Stuff I am not:
-* something you exorcists need to worry about
+* nothing you exorcists need to worry about 
 
 
 ## ✨ Certification
 [![cs50](https://img.shields.io/badge/CS50-02262B?style=for-the-badge&logo=edX&logoColor=white)](https://courses.edx.org/certificates/b2fbd32a6a254027bcc76d243866b0da)
-
-(yes that's it for now)
+*did you ask? no.*
 
 ## 💬 Languages
 ![Python Badge](https://img.shields.io/badge/python-1d3247?style=for-the-badge&logo=Python&logoColor=white)
@@ -26,6 +23,7 @@ Stuff I am not:
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
+*also python > cpp*
 
 ## 📚 Frameworks and Libraries
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
