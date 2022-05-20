@@ -70,7 +70,6 @@ MO-Guide is a simple, responsive Math Olympiad webpage implemented using Next.js
 
 Other developers: [@tyx2021](https://github.com/tyx2021), [@fanwendeeznuts](https://github.com/fanwendeeznuts), Zhen Mingyuan and [@1NF35TAT10N](https://github.com/1NF35TAT10N)
 
-## 🤙 Socials
+## 🤙 Contact Me
 [![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/915513493594177566)
-[![Medium Badge](https://img.shields.io/badge/-@lohhaoyuan-03a57a?style=for-the-badge&labelColor=000000&logo=Medium&link=https://medium.com/@lohhaoyuan/)](https://lohhaoyuan.medium.com/)
 [![Email](https://img.shields.io/badge/Other%20Company%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:221409L@student.hci.edu.sg)
