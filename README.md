@@ -1,21 +1,19 @@
 # <img src="https://i.imgur.com/hsf3JDx.gif" width='50'> hi 
 
-[![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/915513493594177566)
-[![Medium Badge](https://img.shields.io/badge/-@lohhaoyuan-03a57a?style=for-the-badge&labelColor=000000&logo=Medium&link=https://medium.com/@lohhaoyuan/)](https://lohhaoyuan.medium.com/)
-
 Who I am:
 * short-ish
 * student developer
 * classical music enthusiast
+* bubble tea addict
 * nothing you exorcists need to worry about 
 
-The sh\*t I mess around with:
+Things I mess around with:
 * Web Development
 * App Development
 * Robotics
 * Organ harvesting 
 
-## ✨ Certification
+## ✨ Certification plus other cool stuff
 [![cs50](https://img.shields.io/badge/CS50-02262B?style=for-the-badge&logo=edX&logoColor=white)](https://courses.edx.org/certificates/b2fbd32a6a254027bcc76d243866b0da)
 *did you ask? no.*
 
@@ -36,9 +34,9 @@ The sh\*t I mess around with:
 ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
 
 ## ⌨️ IDEs 
+![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white
 )
-![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ## 📊 Statistics
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=LHY-42)
@@ -51,10 +49,6 @@ The sh\*t I mess around with:
 
 ## 💡 Projects
 ### Social Networking | OurHCI (still a work in progress)
-![availableonios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![availableonandroid](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![availableonline](https://img.shields.io/badge/even%20works%20online-4285F4?style=for-the-badge&logo=Google&logoColor=white)
-
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 
 
@@ -76,4 +70,7 @@ MO-Guide is a simple, responsive Math Olympiad webpage implemented using Next.js
 
 Other developers: [@tyx2021](https://github.com/tyx2021), [@fanwendeeznuts](https://github.com/fanwendeeznuts), Zhen Mingyuan and [@1NF35TAT10N](https://github.com/1NF35TAT10N)
 
-
+## 🤙 Socials
+[![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/915513493594177566)
+[![Medium Badge](https://img.shields.io/badge/-@lohhaoyuan-03a57a?style=for-the-badge&labelColor=000000&logo=Medium&link=https://medium.com/@lohhaoyuan/)](https://lohhaoyuan.medium.com/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:221409L@student.hci.edu.sg)
