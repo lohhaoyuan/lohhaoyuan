@@ -1,4 +1,4 @@
-# <img src="https://i.imgur.com/hsf3JDx.gif" width='50'> hi 
+#  hi 
 ### very good readme.md definitely not stolen from @neohaojun @jiachenyee.
 
 Who I am:
@@ -47,7 +47,7 @@ Things I mess around with:
 ![mostusedlangs](https://github-readme-stats.vercel.app/api/top-langs/?username=LHY-42)
 
 ![hits](	https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLHY-421212%2Fhit-counter)
-
+<!--
 ## 💡 Projects
 ### Social Networking | OurHCI (still a work in progress)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
@@ -73,4 +73,4 @@ Other developers: [@tyx2021](https://github.com/tyx2021), [@fanwendeeznuts](http
 
 ## 🤙 Contact Me
 [![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/915513493594177566)
-[![Email](https://img.shields.io/badge/Other%20Company%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:221409L@student.hci.edu.sg)
+[![Email](https://img.shields.io/badge/Other%20Company%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:221409L@student.hci.edu.sg)-->
