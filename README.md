@@ -14,8 +14,9 @@ Things I mess around with:
 * Robotics
 * Organ harvesting 
 
-## ✨ Certification plus other cool stuff
+## ✨ proof i know stuff
 [![cs50](https://img.shields.io/badge/CS50-02262B?style=for-the-badge&logo=edX&logoColor=white)](https://courses.edx.org/certificates/b2fbd32a6a254027bcc76d243866b0da)
+
 *did you ask? no.*
 
 ## 💬 Languages
@@ -27,17 +28,14 @@ Things I mess around with:
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 *also python > cpp*
-
 ## 📚 Frameworks and Libraries
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=white)
 
 ## ⌨️ IDEs 
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white
-)
+![xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 ## 📊 Statistics
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=LHY-42)
