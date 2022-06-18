@@ -3,12 +3,13 @@
 
 Who I am:
 * short-ish
-* student developer
+* student
+* developer 
 * classical music enthusiast
 * bubble tea addict
 * nothing you exorcists need to worry about 
 
-Things I mess around with:
+planes of existence in which i do stuff:
 * Web Development
 * App Development
 * Robotics
@@ -18,7 +19,7 @@ Things I mess around with:
 [![cs50](https://img.shields.io/badge/CS50-02262B?style=for-the-badge&logo=edX&logoColor=white)](https://courses.edx.org/certificates/b2fbd32a6a254027bcc76d243866b0da)
 
 *did you ask? no.*
-
+* its not really much but eh*
 ## 💬 Languages
 ![Python Badge](https://img.shields.io/badge/python-1d3247?style=for-the-badge&logo=Python&logoColor=white)
 ![Swift Badge](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
