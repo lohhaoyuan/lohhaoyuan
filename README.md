@@ -70,4 +70,4 @@ Other developers: [@tyx2021](https://github.com/tyx2021), [@fanwendeeznuts](http
 -->
 ## Contact Me
 [![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/915513493594177566)
-[![Email](https://img.shields.io/badge/Other%20Company%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:221409L@student.hci.edu.sg)-->
+[![Email](https://img.shields.io/badge/Other%20Company%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:221409L@student.hci.edu.sg)
