@@ -50,7 +50,8 @@ planes of existence in which i do stuff:
 ## 💡 Projects
 ### Social Networking | OurHCI
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-(<img width="269" alt="Screenshot 2022-08-13 at 7 08 50 PM" src="https://user-images.githubusercontent.com/95842688/184481036-e77b6ccf-30e9-403e-bc68-b40d0886e94f.png">)[https://github.com/lhy-42/hciprojectwork2022]
+
+<img width="269" alt="Screenshot 2022-08-13 at 7 08 50 PM" src="https://user-images.githubusercontent.com/95842688/184481036-e77b6ccf-30e9-403e-bc68-b40d0886e94f.png">
 
 A lightning-fast, highly secure social media site for Hwa Chong students. Developed for Hwa Chong Project Work 2022.
 (Project ID: 9-05)
