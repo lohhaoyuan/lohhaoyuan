@@ -7,4 +7,4 @@
 <hr>
 
 
-<img align="center" alt="profile picture" src="https://github.com/lhy-42.png" height="269" width="269">
+<img  alt="profile picture" src="https://github.com/lhy-42.png" height="256" width="256">
